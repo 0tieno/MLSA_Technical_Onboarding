@@ -32,8 +32,7 @@ const imageAltText = "laptop in the dark background";
 const projectList = [
   {
     title: "100DaysOfCode Project Challenge. Things To Know About Creating Web Apps 🎉",
-    description:
-      "This is combination of HTML, CSS, JS, SASS to build frontend of static web app.",
+    description: "This is combination of HTML, CSS, JS, SASS to build frontend of static web app.",
     url: "https://github.com/0tieno/100DayOfCode",
   },
   {
