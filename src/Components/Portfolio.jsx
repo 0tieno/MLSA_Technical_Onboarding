@@ -31,22 +31,22 @@ const imageAltText = "laptop in the dark background";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "100DaysOfCode Project Challenge. Things To Know About Creating Web Apps 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is combination of HTML, CSS, JS, SASS to build frontend of static web app.",
+    url: "https://github.com/0tieno/100DayOfCode",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Home Page Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a microsoft home page clone for the love I have for Microsoft. These help provide visual representation of what is being taught.",
+    url: "0tieno.github.io/Microsoft_Homepage_Clone/",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created my portfolio site and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://mssg.me/ronney",
   },
   {
     title: "GitHub Codespaces and github.dev",
