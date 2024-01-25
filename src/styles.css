@@ -139,3 +139,51 @@ img.socialIcon {
     transform: translateX(0);
   }
 }
+
+
+/* Education.css */
+
+#education {
+  padding: 40px 0; 
+  text-align: center;
+
+
+}
+
+.education-flex {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  margin-top: 40px;
+
+}
+
+.education-item {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.education-item h3 {
+  color: #333;
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+
+.education-details {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.education-degree {
+  font-weight: bold;
+}
+
+.education-description {
+  font-size: 0.9em;
+  color: #444;
+}
+
