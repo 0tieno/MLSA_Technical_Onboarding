@@ -174,7 +174,7 @@ img.socialIcon {
 }
 
 .education-details {
-  font-size: 0.9em;
+  font-size: 1em;
   color: #666;
 }
 
@@ -183,28 +183,13 @@ img.socialIcon {
 }
 
 .education-description {
-  font-size: 0.9em;
+  font-size: 1.1em;
   color: #444;
+  line-height: 1.5;
 }
 
 
 /* animate the scroll down arrow in the Home component to bounce up and down on the page. */
-/* @keyframes bounce {
-  0%,
-  100%,
-  20%,
-  50%,
-  80% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-30px);
-  }
-  60% {
-    transform: translateY(-15px);
-  }
-} */
-
 @keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
     transform: translateY(0);
